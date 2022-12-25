@@ -1,4 +1,6 @@
 # html-sp5-practice-master
+![image](https://user-images.githubusercontent.com/108535012/209479229-18fcf8eb-43d4-436f-96ef-35204a366f77.png)
+
 # Pixel Photography
 
 ## Context
